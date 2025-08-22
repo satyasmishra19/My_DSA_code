@@ -61,7 +61,6 @@ public class bitMANUPULATION {
         while (n>0) {
             if ((n & 1) != 0) {
                 ans *= a;
-
             }
             a*=a;
             n>>=1;

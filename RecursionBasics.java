@@ -93,8 +93,9 @@ public class RecursionBasics {
         return isfound;
     }
     public static void main(String[] args) {
-        int arr[] = {8,3,6,9,5,10,2,5,3};
-        System.out.println(firsoccurence(arr, 5)); 
-        System.out.println(lasoccurence(arr, 5)); 
+        //int arr[] = {8,3,6,9,5,10,2,5,3};
+        //System.out.println(firsoccurence(arr, 5)); 
+        //System.out.println(lasoccurence(arr, 5)); 
+        System.out.println(fib(25));
     }
 }
